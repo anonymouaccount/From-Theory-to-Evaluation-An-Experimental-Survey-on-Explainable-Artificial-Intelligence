@@ -12,6 +12,8 @@ We evaluate explainability methods across various data modalities:
 - Time-Series Data
 
 The experiments benchmark multiple XAI techniques such as:
+- Grad-CAM
+- CAM
 - LIME
 - SHAP
 - DeepLIFT
